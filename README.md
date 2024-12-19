@@ -1,9 +1,9 @@
 # _varzie
 
-Functionality
+## Functionality
 
--N:1 thread model
--Create thread
--Communicate between threads
--Exit from thread
+* N:1 thread model
+* Create thread
+* Communication between threads
+* Exit from thread
 
